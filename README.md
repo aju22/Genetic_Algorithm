@@ -1,7 +1,10 @@
 # Introduction
 This is a simple, yet a powerful implementation of Genetic Algorithm, that literally uses "Survival of Fittest" to optimally reach a target.
+
 In this case, we start with a bunch of rockets who have no idea what's going on.
+
 In further generations, we can see them trying to seek a particular target, even when obstacles are placed.
+
 After enough generations, they behave ideally/optimally and sucessfully reach the target.
 
 # Generation 1
